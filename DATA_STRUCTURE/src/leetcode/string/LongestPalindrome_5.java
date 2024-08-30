@@ -1,6 +1,6 @@
 package leetcode.string;
 
-public class LongestPalindrome {
+public class LongestPalindrome_5 {
 	static int max = 0, end = 0, start = 0;
 	
 	public static boolean isPalindrome(String s, int i, int j) {
